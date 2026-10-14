@@ -1,0 +1,103 @@
+GAMES IN KURDISH - LOCALIZATION LICENSE
+=======================================
+
+Copyright (c) 2023 Ameer Xoshnaw | Games in Kurdish
+All Rights Reserved.
+
+Official website: https://gamesinkurdish.com/
+
+
+1. WHAT THIS LICENSE COVERS
+---------------------------
+This license applies to my original work included in any Games in
+Kurdish release, for any game ("the Work"), which means:
+
+  - Kurdish translations, subtitles, and dubbing/localization text
+  - Kurdish fonts and font edits
+  - Tools, scripts, patchers, and installers I created
+  - Mods and any other creative work made by me
+  - The README and documentation files
+
+This license does NOT cover the original game or any of its assets,
+code, names, or trademarks. Those belong to their respective owners
+(the game's developers and publishers). Nothing here gives you any
+rights to the original game.
+
+
+2. WHAT YOU MAY DO
+------------------
+You may:
+
+  - Download the Work from official sources and use it for your own
+    personal, non-commercial purposes.
+  - Install the Work on a legally owned copy of the game.
+  - Share a link to the official download page.
+  - Show or discuss the Work (reviews, videos, screenshots), as long as
+    you credit "Ameer Xoshnaw | Games in Kurdish" and link to
+    https://gamesinkurdish.com/
+
+
+3. WHAT YOU MAY NOT DO
+----------------------
+Without my prior written permission, you may NOT:
+
+  a) Re-upload, mirror, or redistribute the Work, in whole or in part,
+     on any website, file host, mod site, forum, group, or app.
+  b) Sell, rent, or charge for the Work, or put it behind ads, paywalls,
+     donation walls, link shorteners, or any other monetization.
+  c) Remove, hide, or change my name, credits, or this license.
+  d) Claim the Work, or any part of it, as your own.
+  e) Modify the Work and redistribute the modified version.
+  f) Include the Work in game packs, repacks, or bundles.
+  g) Scrape, copy, or collect the Work, or text taken from the Work.
+
+
+4. NO AI TRAINING OR UNAUTHORIZED AI USE
+----------------------------------------
+I do not authorize any AI company, AI model, crawler, dataset builder,
+or third party to scrape, copy, reproduce, or redistribute the Work,
+or to use it, in whole or in part, to train, fine-tune, test, or
+improve any machine learning or artificial intelligence system.
+
+This includes text and data mining. I expressly reserve all rights to
+text and data mining of the Work.
+
+Any such use requires my written permission.
+
+
+5. WHAT THE WORK WAS RELEASED UNDER BEFORE
+------------------------------------------
+Earlier releases of my work were shared for free. Releasing something
+for free does not give up my copyright. Copies found on other websites
+that were not uploaded by me are unauthorized, even if they still carry
+my name.
+
+
+6. TERMINATION
+--------------
+If you break any of these terms, your permission to use the Work ends
+immediately.
+
+
+7. NO WARRANTY
+--------------
+The Work is provided "as is", without any warranty. I am not
+responsible for any damage, data loss, game bans, or other problems
+caused by using it. Use it at your own risk.
+
+
+8. PERMISSION AND CONTACT
+-------------------------
+To ask for permission, report a stolen copy, or send a takedown
+notice, contact me:
+
+  Website:  https://gamesinkurdish.com/
+  Twitter:  @GamesinKurdish
+  Discord:  https://discord.gg/sJyvkBuH4x
+  Telegram: https://t.me/gamesinkurdish_com
+
+The only official downloads are on https://gamesinkurdish.com/
+Copies from anywhere else may be outdated, changed, or unsafe.
+
+
+All Rights Reserved. No AI Training or Unauthorized Use.
